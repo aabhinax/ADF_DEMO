@@ -1,0 +1,9 @@
+{
+	"name": "test-datafactory-demo-abhinav",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b5c2b526-c07d-4e79-b7ba-e402ee742dda",
+		"tenantId": "f3da5ce8-1aac-442b-9ebe-1c570e1ac6fc"
+	}
+}
